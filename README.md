@@ -2,4 +2,4 @@ Aprašymas: Edukacinio žaidimo "Aviation with code" įskiepis virtualiai mokymo
 
 Priklauso: Gabija Matijaškaitė, VU MIF Programų sistemų 4 kurso studentė
 
-Data: 2022-01-01
+Data: 2022-01-16
